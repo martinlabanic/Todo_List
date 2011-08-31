@@ -11,6 +11,7 @@
 		5B1AFC6E13BB99BB006794AD /* star_big.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B1AFC6D13BB99BB006794AD /* star_big.png */; };
 		5B1BC06313B9042800FFB150 /* DetailedItemViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B1BC06113B9042800FFB150 /* DetailedItemViewController.m */; };
 		5B1BC06413B9042800FFB150 /* DetailedItemViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5B1BC06213B9042800FFB150 /* DetailedItemViewController.xib */; };
+		5B2E8A47140DB0BD007507AB /* silvStar.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B2E8A46140DB0BD007507AB /* silvStar.png */; };
 		5B65C3FB13B1537A006BF474 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5B65C3FA13B1537A006BF474 /* UIKit.framework */; };
 		5B65C3FD13B1537A006BF474 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5B65C3FC13B1537A006BF474 /* Foundation.framework */; };
 		5B65C3FF13B1537A006BF474 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5B65C3FE13B1537A006BF474 /* CoreGraphics.framework */; };
@@ -28,7 +29,6 @@
 		5B65C42B13B1537A006BF474 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5B65C42913B1537A006BF474 /* InfoPlist.strings */; };
 		5B65C42E13B1537A006BF474 /* TodoTests.h in Resources */ = {isa = PBXBuildFile; fileRef = 5B65C42D13B1537A006BF474 /* TodoTests.h */; };
 		5B65C43013B1537A006BF474 /* TodoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B65C42F13B1537A006BF474 /* TodoTests.m */; };
-		5B79F7DE13BD4CD6009121AB /* silvStar.png in Resources */ = {isa = PBXBuildFile; fileRef = 5B79F7DD13BD4CD6009121AB /* silvStar.png */; };
 		5BE2FC7313B26E0A00D3BD73 /* ListDetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BE2FC7113B26E0900D3BD73 /* ListDetailsViewController.m */; };
 		5BE2FC7413B26E0A00D3BD73 /* ListDetailsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5BE2FC7213B26E0A00D3BD73 /* ListDetailsViewController.xib */; };
 		5BEC2D0713BA7CAD000EC159 /* IntroViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BEC2D0513BA7CAD000EC159 /* IntroViewController.m */; };
@@ -54,6 +54,7 @@
 		5B1BC06013B9042800FFB150 /* DetailedItemViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DetailedItemViewController.h; path = Todo.xcodeproj/DetailedItemViewController.h; sourceTree = SOURCE_ROOT; };
 		5B1BC06113B9042800FFB150 /* DetailedItemViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DetailedItemViewController.m; path = Todo.xcodeproj/DetailedItemViewController.m; sourceTree = SOURCE_ROOT; };
 		5B1BC06213B9042800FFB150 /* DetailedItemViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = DetailedItemViewController.xib; path = Todo.xcodeproj/DetailedItemViewController.xib; sourceTree = SOURCE_ROOT; };
+		5B2E8A46140DB0BD007507AB /* silvStar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = silvStar.png; sourceTree = "<group>"; };
 		5B65C3F613B1537A006BF474 /* Todo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Todo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B65C3FA13B1537A006BF474 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		5B65C3FC13B1537A006BF474 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -75,7 +76,6 @@
 		5B65C42C13B1537A006BF474 /* TodoTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TodoTests-Prefix.pch"; sourceTree = "<group>"; };
 		5B65C42D13B1537A006BF474 /* TodoTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TodoTests.h; sourceTree = "<group>"; };
 		5B65C42F13B1537A006BF474 /* TodoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TodoTests.m; sourceTree = "<group>"; };
-		5B79F7DD13BD4CD6009121AB /* silvStar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = silvStar.png; path = ../../silvStar.png; sourceTree = "<group>"; };
 		5BE2FC7013B26E0900D3BD73 /* ListDetailsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ListDetailsViewController.h; sourceTree = "<group>"; };
 		5BE2FC7113B26E0900D3BD73 /* ListDetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ListDetailsViewController.m; sourceTree = "<group>"; };
 		5BE2FC7213B26E0A00D3BD73 /* ListDetailsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ListDetailsViewController.xib; sourceTree = "<group>"; };
@@ -119,6 +119,7 @@
 			children = (
 				5B1AFC6D13BB99BB006794AD /* star_big.png */,
 				5B0CC33213B3A72900D51E43 /* Todo.xcdatamodeld */,
+				5B2E8A46140DB0BD007507AB /* silvStar.png */,
 				5BFBD11913B53B290006646E /* background.png */,
 				5B65C40213B1537A006BF474 /* Todo */,
 				5B65C42613B1537A006BF474 /* TodoTests */,
@@ -165,7 +166,6 @@
 				5BE2FC7013B26E0900D3BD73 /* ListDetailsViewController.h */,
 				5BE2FC7113B26E0900D3BD73 /* ListDetailsViewController.m */,
 				5BE2FC7213B26E0A00D3BD73 /* ListDetailsViewController.xib */,
-				5B79F7DD13BD4CD6009121AB /* silvStar.png */,
 				5B1BC06013B9042800FFB150 /* DetailedItemViewController.h */,
 				5B1BC06113B9042800FFB150 /* DetailedItemViewController.m */,
 				5B1BC06213B9042800FFB150 /* DetailedItemViewController.xib */,
@@ -281,7 +281,7 @@
 				5BEC2D0813BA7CAD000EC159 /* IntroViewController.xib in Resources */,
 				5BEC2D1013BA9DDB000EC159 /* CustomCell.xib in Resources */,
 				5B1AFC6E13BB99BB006794AD /* star_big.png in Resources */,
-				5B79F7DE13BD4CD6009121AB /* silvStar.png in Resources */,
+				5B2E8A47140DB0BD007507AB /* silvStar.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
